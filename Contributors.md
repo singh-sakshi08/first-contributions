@@ -116,6 +116,7 @@
 - [Huraira Muzammal](https://github.com/hurairamuzammil)
 - [Tobias Stanislav](https://github.com/AufkleberDraufkleber)
 - [Evan Sunde](https://github.com/EvanSunde)
+- [Sakshi Singh](https://github.com/singh-sakshi08)
 - [Shryansh](https://github.com/Shryansh107)
 - [Hayden Gagnon](https://github.com/haydengagnon)
 - [Ashutosh Singh Yadav](https://github.com/ashu9335)
